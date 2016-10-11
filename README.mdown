@@ -1,0 +1,7 @@
+# Q and A
+
+### Fun facts about breakfast
+
+* install node, express, and socket.io
+* run by node server
+* Listen in http://localhost:3050 

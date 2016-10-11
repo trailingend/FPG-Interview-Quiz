@@ -1,0 +1,27 @@
+{
+  "name": "fpg-interview-quiz",
+  "version": "1.0.0",
+  "description": "### Fun facts about breakfast",
+  "main": "index.html",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mime": "^1.3.4",
+    "mine": "^0.1.0",
+    "socket.io": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trailingend1992/FPG-Interview-Quiz.git"
+  },
+  "author": "JayleenZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trailingend1992/FPG-Interview-Quiz/issues"
+  },
+  "homepage": "https://github.com/trailingend1992/FPG-Interview-Quiz#readme"
+}
